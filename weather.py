@@ -94,6 +94,7 @@ class WeatherApp:
                 print("⚠️ Please enter a valid city name.")
 
 if __name__ == "__main__":
-    API_KEY = "fd1a7014632cdb032bd92314af275256"  
+    API_KEY = "add your api key here" #Note: The API key has been removed from this project due to GitHub privacy and security policies.  
     app = WeatherApp(API_KEY)
     app.run()
+
